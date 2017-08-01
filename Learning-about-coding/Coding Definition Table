@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><title>Block Elements</title></head>
+<body>
+<div><h1>This is the Title of the Site</h1><p>I am using a div element that contains a header and a paragraph</p></div>
+<div><p> This paragraph is going to a have a line break seperating this sentence <br> from this follow up sentence </p></div><hr>
+<div><p>After this sentence I will list a series of definitions and @ will represent cornered brackets</p></div>
+<dl>
+<dt>Element</dt></table><table><dd>Purpose</dd>
+<dt>@address@</dt><dd>Contact info</dd>
+<dt>@article@</dt><dd>Content that relates to an article</dd>
+<dt>@aside@</dt><dd>A section of the page with content connected to the rest, which could be considered separate from that content. Often used for explanatory content. These sections are often represented as sidebars or inserts.</dd>
+<dt>@blockquote@</dt><dd>Long block quotation</dd>
+<dt>@canvas@</dt><dd>A container for drawing graphics</dd>
+<dt>@div@</dt><dd>Document division to group related elements in a parent container</dd>
+<dt>@dd@</dt><dd>Definition description used inside @dl@</dd>
+<dt>@dl@</dt><dd>Definition list used to contain @dt@ and @dd@</dd>
+<dt>@fieldset@</dt><dd>Used to group related elements within a form</dd>
+<dt>@figure@</dt><dd>Groups media content with a caption</dd>
+<dt>@figcaption@</dt><dd>Defines a caption for a figure</dd>
+<dt>@footer@</dt><dd>Specifies a footer area for a section or page</dd>
+<dt>@form@</dt> <dd>Container for elements used to collect input info from user</dd>
+<dt>@h1-h6@</dt><dd>Headings from most important 1 to least 6</dd>
+<dt>@header@</dt><dd>Specifies a header area for a section or page</dd>
+<dt>@hgroup@</dt><dd>Used to group heading tags when heading has a primary and sub heading specified</dd>
+<dt>@hr@</dt><dd>Horizontal rule creates dividing horizontal line after element</dd>
+<dt>@li@</dt><dd>Defines an individual item in a list of items</dd>
+<dt>@main@</dt><dd>Specifies the central content in a document</dd>
+<dt>@nav@</dt><dd>Creates a section containing navigation links</dd>
+<dt>@noscript@</dt><dd>Content to display only if scripting is not supported or turned off in the browser</dd>
+<dt>@ol@</dt><dd>Creates an ordered list</dd>
+<dt>@p@</dt><dd>Designates and paragraph of text</dd>
+<dt>@pre@</dt><dd>Displays preformatted text</dd>
+<dt>@section@</dt><dd>Defines a section of webpage</dd>
+<dt>@table@</dt><dd>defines a structure for display of tabular data</dd>
+<dt>@tfoot@</dt><dd>Creates a section representing a footer within a table</dd>
+<dt>@ul@</dt><dd>Creates and unordered list</dd>
+<dt>@video@</dt><dd>Creates a video player</dd>
+</dl>
+<p>I think thats enough practise</p>
+</body></html>
